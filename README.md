@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 はじめまして、Takuto です！
 
-<!--
-**takuto147/takuto147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+エンジニア転職を目指して個人開発を行っているフルスタック志望の開発者です。  
+Next.js や Spring Boot を用いたアプリケーションの開発を行っています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 スキルスタック
+
+- 💻 フロントエンド：React / Next.js / TypeScript / Tailwind CSS
+- ⚙️ バックエンド：Java / Spring Boot / JPA / MySQL
+- ☁️ インフラ：Render / Vercel / Supabase
+
+---
+
+## 🚀 ポートフォリオ
+
+### 🎵 [SongRepertorie](https://github.com/takuto147/SongRepertorie)
+> カラオケのレパートリーを管理できるアプリです  
+> Next.js × Spring Boot のフルスタック構成
+
+🔗 デモサイト： [https://song-repertorie.vercel.app](https://song-repertorie.vercel.app)
+
+---
+
+## 📫 連絡先
+
+- X（旧Twitter）：[@takuto_xxx](https://x.com/takuto_xxx)
+- Wantedly：[プロフィールページURL]
