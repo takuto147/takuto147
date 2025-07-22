@@ -23,7 +23,15 @@ Next.js や Spring Boot を用いたアプリケーションの開発を行っ�
 
 ---
 
-## 📫 連絡先
+### 💪 [muscle_health_app](https://github.com/takuto147/muscle_health_app)
+> 食事と筋トレを記録し、健康管理できるアプリ。  
+> Firebase を用いたログイン・データ管理。  
+> カロリー・PFCバランスの可視化や、グラフ表示、タグ分類にも対応。
 
-- X（旧Twitter）：[@takuto_xxx](https://x.com/takuto_xxx)
-- Wantedly：[プロフィールページURL]
+🔗 デモサイト：[https://muscle-health-app.vercel.app](https://muscle-health-app.vercel.app)
+
+---
+
+## 📫 連絡先
+- メールアドレス：songxiatadou@gmail.com
+
