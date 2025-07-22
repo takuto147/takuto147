@@ -28,7 +28,7 @@ Next.js や Spring Boot を用いたアプリケーションの開発を行っ�
 > Firebase を用いたログイン・データ管理。  
 > カロリー・PFCバランスの可視化や、グラフ表示、タグ分類にも対応。
 
-🔗 デモサイト：[https://muscle-health-app.vercel.app](https://muscle-health-app.vercel.app)
+🔗 デモサイト：[https://muscle-health-auth.web.app](https://muscle-health-auth.web.app)
 
 ---
 
