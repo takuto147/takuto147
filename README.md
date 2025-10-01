@@ -20,7 +20,7 @@ Next.js や Spring Boot を用いたアプリケーションの開発を行っ�
 > Next.js × Spring Boot のフルスタック構成
 
 🔗 デモサイト： [https://song-repertorie.vercel.app](https://song-repertorie.vercel.app)
-
+※注：アクセス直後はバックエンドのサーバーが立ち上がるまで10分ほどかかります！開いた後少々お待ちください。
 ---
 
 ### 💪 [muscle_health_app](https://github.com/takuto147/muscle_health_app)
