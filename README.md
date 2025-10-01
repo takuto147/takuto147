@@ -17,7 +17,8 @@ Next.js や Spring Boot を用いたアプリケーションの開発を行っ�
 
 ### 🎵 [SongRepertorie](https://github.com/takuto147/SongRepertorie)
 > カラオケのレパートリーを管理できるアプリです  
-> Next.js × Spring Boot のフルスタック構成  　　　　　　
+> Next.js × Spring Boot のフルスタック構成
+> 　　　　
 > ※注：デモサイトのアクセス直後はバックエンド側のサーバーが立ち上がるまで作業できません！立ち上がるまで10分ほどお待ちください！
 
 🔗 デモサイト： [https://song-repertorie.vercel.app](https://song-repertorie.vercel.app)
